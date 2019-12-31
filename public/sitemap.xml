@@ -1,54 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.bethandeugene.com/</loc>
+    <loc>//eugbethnoci2016.firebaseapp.com/</loc>
     <lastmod>2016-11-26T15:13:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bethandeugene.com/tea-ceremony/</loc>
+    <loc>//eugbethnoci2016.firebaseapp.com/tea-ceremony/</loc>
     <lastmod>2016-11-26T15:13:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bethandeugene.com/chiostro/</loc>
+    <loc>//eugbethnoci2016.firebaseapp.com/chiostro/</loc>
     <lastmod>2016-11-15T21:44:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bethandeugene.com/noci/</loc>
+    <loc>//eugbethnoci2016.firebaseapp.com/noci/</loc>
     <lastmod>2016-11-15T21:44:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bethandeugene.com/reception/</loc>
+    <loc>//eugbethnoci2016.firebaseapp.com/reception/</loc>
     <lastmod>2016-11-15T21:44:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bethandeugene.com/polaroids/</loc>
+    <loc>//eugbethnoci2016.firebaseapp.com/polaroids/</loc>
     <lastmod>2016-11-15T21:15:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bethandeugene.com/the-bus/</loc>
+    <loc>//eugbethnoci2016.firebaseapp.com/the-bus/</loc>
     <lastmod>2016-11-15T21:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bethandeugene.com/bambinos/</loc>
+    <loc>//eugbethnoci2016.firebaseapp.com/bambinos/</loc>
     <lastmod>2016-11-15T20:52:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bethandeugene.com/professionals/</loc>
+    <loc>//eugbethnoci2016.firebaseapp.com/professionals/</loc>
     <lastmod>2016-11-15T20:45:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.bethandeugene.com/professionals_2/</loc>
+    <loc>//eugbethnoci2016.firebaseapp.com/professionals_2/</loc>
     <lastmod>2016-11-15T20:44:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//eugbethnoci2016.firebaseapp.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>//eugbethnoci2016.firebaseapp.com/tags/</loc>
   </url>
   
 </urlset>

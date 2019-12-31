@@ -1,5 +1,5 @@
 # Settings
-baseurl = "http://www.bethandeugene.com/"
+baseurl = "//eugbethnoci2016.firebaseapp.com/"
 languageCode = "en-us"
 title = "Beth and Eugene"
 theme = "phugo"
